@@ -1,0 +1,2 @@
+Cuong,Male,21,2021-10-13,NhaTrang,1
+Kim,Female,21,2021-10-14,SaiGon,2
